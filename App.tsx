@@ -111,7 +111,7 @@ const App = () => {
   }, [])
 
   return (
-    <div style={{ height: '100vh', backgroundColor: '#' }}>
+    <div style={{ height: '100vh', backgroundColor: '#202020' }}>
       <div style={{ height: 60, display: 'flex', justifyItems: 'center', alignItems: 'center' }}>
         {/* Additional content can be added here */}
       </div>
